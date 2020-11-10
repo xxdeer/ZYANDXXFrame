@@ -1,0 +1,6 @@
+framework module ZYANDXXFrame {
+  umbrella header "ZYANDXXFrame-umbrella.h"
+
+  export *
+  module * { export * }
+}

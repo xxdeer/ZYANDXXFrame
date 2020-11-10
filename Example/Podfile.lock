@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - ZYANDXXFrame (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - ZYANDXXFrame (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  ZYANDXXFrame:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  ZYANDXXFrame: 7c02a1df71d828b740efb21015d78e91a76e7bb5
+
+PODFILE CHECKSUM: 6f14d6206c89c8070e73f24da7c3cbd3aae51663
+
+COCOAPODS: 1.10.0
